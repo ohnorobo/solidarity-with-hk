@@ -5,7 +5,7 @@ define(function(require, exports) {
 
   var templates = {
     url: Handlebars.compile('<a href="{{url}}" target="_blank"><h4 id="website">{{title}}<h4></a>'),
-    image: Handlebars.compile('<img src="{{url}}"/>'),
+    image: Handlebars.compile('<img id="picture" src="{{url}}"/>'),
     title: Handlebars.compile('<div><h4>{{title}}</h4><div>{{{rendered}}}</div></div>'),
     list: Handlebars.compile('<ul> {{#list}} <li>{{{this}}}</li> {{/list}} </ul>'),
     directions: Handlebars.compile('<a href="http://maps.google.com/maps?q={{directions}}">{{title}}</a>'),
@@ -20,15 +20,13 @@ define(function(require, exports) {
     },
 
     title: function(value, property) {
-      var t = property.title;
+      var t = property.title + ""; //force copy by value
       property.title = null;
       return templates.title({title: t,
                               rendered: format(value, property)});
     },
 
     list: function(value, property) {
-      console.log("beginning of list");
-      console.log(property);
       if (value.length === 0) {
         return '';
       } else if (value.length === 1) {
@@ -57,9 +55,6 @@ define(function(require, exports) {
 
   function format(value, property) {
     property = property || {};
-    console.log("beginning of format");
-    console.log(value);
-    console.log(property);
     var formatter;
     if (property.url) {
       formatter = 'url';
@@ -75,8 +70,6 @@ define(function(require, exports) {
       formatter = 'simple';
     }
     // apply the discovered formatter to the data
-    console.log("end of format");
-    console.log(property);
     return formatters[formatter](value, property);
   }
 
