@@ -1,0 +1,1682 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -63.591655, 
+          44.636692
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/842775019090740/?ref=4", 
+        "End": "10/1/2014 8:00:00", 
+        "Description": "https://www.facebook.com/events/842775019090740/?ref=4", 
+        "marker-symbol": "", 
+        "Title": "Halifax", 
+        "title": "Halifax", 
+        "address": "Killam Memorial Library, Dalhousie University, 6225 University Ave", 
+        "page": "https://www.facebook.com/events/842775019090740/?ref=4", 
+        "id": "marker-i0ooddkyr", 
+        "Start": "10/1/2014 3:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "5:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "https://www.facebook.com/events/842775019090740/?ref=4"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -79.4, 
+          43.7
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "9/28/2014 4:00:00", 
+        "Description": "contact: oclptoronto@gmail.com, chklink@gmail.com\npage: https://www.facebook.com/CHKLink", 
+        "marker-symbol": "", 
+        "Title": "Toronto", 
+        "title": "Toronto", 
+        "pages": [
+          "https://www.facebook.com/CHKLink"
+        ], 
+        "address": "Yonge and Dundas square", 
+        "contacts": [
+          "oclptoronto@gmail.com", 
+          "chklink@gmail.com"
+        ], 
+        "page": "https://www.facebook.com/CHKLink", 
+        "id": "marker-i0ooddky0", 
+        "Start": "9/28/2014 3:00:00", 
+        "contact": "oclptoronto@gmail.com, chklink@gmail.com", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 28", 
+        "description": "contact: oclptoronto@gmail.com, chklink@gmail.com\npage: https://www.facebook.com/CHKLink"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.1275, 
+          51.5072
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "9/28/2014 8:30:00", 
+        "Description": "By Hong Kong Overseas Alliance\nPictures https://www.facebook.com/globalsolidarityHK/posts/1552449338319911", 
+        "marker-symbol": "", 
+        "Title": "London", 
+        "title": "London", 
+        "pages": [
+          "https://www.facebook.com/globalsolidarityHK/posts/155244933831991"
+        ], 
+        "address": "Trafalgar Square, outside National Gallery", 
+        "contacts": [
+          "Hong Kong Overseas Alliance"
+        ], 
+        "page": "https://www.facebook.com/globalsolidarityHK/posts/155244933831991", 
+        "id": "marker-i0ooddky2", 
+        "Start": "9/28/2014 7:00:00", 
+        "contact": "Hong Kong Overseas Alliance", 
+        "Time": "", 
+        "Duration": "1:30", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 28", 
+        "description": "By Hong Kong Overseas Alliance\nPictures https://www.facebook.com/globalsolidarityHK/posts/1552449338319911"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -118.25, 
+          34.05
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/273275056195710", 
+        "End": "9/28/2014 9:00:00", 
+        "Description": "Event page: https://www.facebook.com/events/273275056195710\nContact: Hong Kong Forum, Los Angeles", 
+        "marker-symbol": "", 
+        "Title": "Los Angeles", 
+        "title": "Los Angeles", 
+        "address": "Chinese Consulate, 433 Shatto Place, Los Angeles, CA 90020", 
+        "contacts": [
+          "Hong Kong Forum", 
+          "Los Angeles"
+        ], 
+        "page": "https://www.facebook.com/events/273275056195710", 
+        "id": "marker-i0ooddky3", 
+        "Start": "9/28/2014 8:00:00", 
+        "contact": "Hong Kong Forum, Los Angeles", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 28", 
+        "description": "Event page: https://www.facebook.com/events/273275056195710\nContact: Hong Kong Forum, Los Angeles"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.0059, 
+          40.7127
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "9/28/2014 9:00:00", 
+        "Description": "(\u00e5\u201d\u0090\u00e4\u00ba\u00ba\u00e8\u00a1\u2014\u00e5\u00ad\u201d\u00e5\u00ad\u0090\u00e5\u00a4\u00a7\u00e5\u00bb\u02c6\u00e5\u00b0\u008d\u00e9\u2013\u2039\u00e5\u00bb\u00a3\u00e5 \u00b4\n33 Bowery, New York, NY 10002)\nPlease wear black.\nContact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)", 
+        "marker-symbol": "", 
+        "Title": "New York City", 
+        "title": "New York City", 
+        "address": "33 Bowery, New York, NY 10002", 
+        "contacts": [
+          "anna_k_cheung@yahoo.com", 
+          "516-7083985 (Anna Cheung)"
+        ], 
+        "page": "", 
+        "id": "marker-i0ooddky4", 
+        "Start": "9/28/2014 8:00:00", 
+        "contact": "anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 28", 
+        "description": "(\u00e5\u201d\u0090\u00e4\u00ba\u00ba\u00e8\u00a1\u2014\u00e5\u00ad\u201d\u00e5\u00ad\u0090\u00e5\u00a4\u00a7\u00e5\u00bb\u02c6\u00e5\u00b0\u008d\u00e9\u2013\u2039\u00e5\u00bb\u00a3\u00e5 \u00b4\n33 Bowery, New York, NY 10002)\nPlease wear black.\nContact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.4167, 
+          37.7833
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "9/28/2014 11:30:00", 
+        "Description": "Contact: ncal.hkclub@gmail.com, leonard.lau@gmail.com\nPage: www.facebook.com/ncal.hkclub\nhttps://www.facebook.com/OCLPUSWest", 
+        "marker-symbol": "", 
+        "Title": "San Francisco", 
+        "title": "San Francisco", 
+        "pages": [
+          "www.facebook.com/ncal.hkclub", 
+          "https://www.facebook.com/OCLPUSWest"
+        ], 
+        "address": "Portsmouth Square \u00e8\u0160\u00b1\u00e5\u0153\u2019\u00e8\u00a7\u2019\u00e5\u00bb\u00a3\u00e5 \u00b4", 
+        "contacts": [
+          "ncal.hkclub@gmail.com", 
+          "leonard.lau@gmail.com"
+        ], 
+        "page": "www.facebook.com/ncal.hkclub, https://www.facebook.com/OCLPUSWest", 
+        "id": "marker-i0ooddky5", 
+        "Start": "9/28/2014 10:30:00", 
+        "contact": "ncal.hkclub@gmail.com, leonard.lau@gmail.com", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 28", 
+        "description": "Contact: ncal.hkclub@gmail.com, leonard.lau@gmail.com\nPage: www.facebook.com/ncal.hkclub\nhttps://www.facebook.com/OCLPUSWest"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          103.8, 
+          1.3
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/309858412551984/", 
+        "End": "9/28/2014 13:00:00", 
+        "Description": "https://www.facebook.com/events/309858412551984/", 
+        "marker-symbol": "", 
+        "Title": "Singapore", 
+        "title": "Singapore", 
+        "address": "", 
+        "page": "https://www.facebook.com/events/309858412551984/", 
+        "id": "marker-i0ooddky6", 
+        "Start": "9/28/2014 11:30:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:30", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 28", 
+        "description": "https://www.facebook.com/events/309858412551984/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          149.1244, 
+          -35.3075
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "9/29/2014 4:00:00", 
+        "Description": "Contact: Kester Nip 0450811123\nPage: https://www.facebook.com/Canberrahkconcern", 
+        "marker-symbol": "", 
+        "Title": "Canberra", 
+        "title": "Canberra", 
+        "pages": [
+          "https://www.facebook.com/Canberrahkconcern"
+        ], 
+        "address": "Canberra Centre (Meet outside the front door of Canberra Centre, near HSBC, outside of Nespresso)", 
+        "contacts": [
+          "Kester Nip 0450811123"
+        ], 
+        "page": "https://www.facebook.com/Canberrahkconcern", 
+        "id": "marker-i0ooddky7", 
+        "Start": "9/29/2014 3:00:00", 
+        "contact": "Kester Nip 0450811123", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 28", 
+        "description": "Contact: Kester Nip 0450811123\nPage: https://www.facebook.com/Canberrahkconcern"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -84.5167, 
+          39.1
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "9/29/2014 4:30:00", 
+        "Description": "Contact: YL Leong, lly.lai@hotmail.com", 
+        "marker-symbol": "", 
+        "Title": "Cincinnati, OH", 
+        "title": "Cincinnati, OH", 
+        "address": "Mainstreet, University of Cincinnati", 
+        "contacts": [
+          "YL Leong", 
+          "lly.lai@hotmail.com"
+        ], 
+        "page": "", 
+        "id": "marker-i0ooddky8", 
+        "Start": "9/29/2014 3:00:00", 
+        "contact": "YL Leong, lly.lai@hotmail.com", 
+        "Time": "", 
+        "Duration": "1:30", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "Contact: YL Leong, lly.lai@hotmail.com"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.9631, 
+          -37.8136
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/451244638346684", 
+        "End": "9/29/2014 8:00:00", 
+        "Description": "Event: https://www.facebook.com/events/451244638346684", 
+        "marker-symbol": "", 
+        "Title": "Melbourne", 
+        "title": "Melbourne", 
+        "address": "State Library \u00e9\u2013\u20ac\u00e5\u008f\u00a3\u00e6\u00a8\u201c\u00e6\u00a2\u00af", 
+        "page": "https://www.facebook.com/events/451244638346684", 
+        "id": "marker-i0ooddky9", 
+        "Start": "9/29/2014 4:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "4:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "Event: https://www.facebook.com/events/451244638346684"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          115.877243, 
+          -31.951046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/931363963559354/", 
+        "End": "9/29/2014 8:00:00", 
+        "Description": "Organizer: https://www.facebook.com/globalsolidarityHKinPerth\nEvent page: https://www.facebook.com/events/931363963559354/", 
+        "marker-symbol": "", 
+        "Title": "Perth", 
+        "title": "Perth", 
+        "pages": [
+          "https://www.facebook.com/globalsolidarityHKinPerth"
+        ], 
+        "address": "Consulate General of The People's Republic of China in Perth", 
+        "page": "https://www.facebook.com/events/931363963559354/", 
+        "id": "marker-i0ooddkya", 
+        "Start": "9/29/2014 4:00:00", 
+        "contact": "https://www.facebook.com/globalsolidarityHKinPerth", 
+        "Time": "", 
+        "Duration": "4:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "Organizer: https://www.facebook.com/globalsolidarityHKinPerth\nEvent page: https://www.facebook.com/events/931363963559354/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          151.206691, 
+          -33.871435
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/747944068604754/", 
+        "End": "9/29/2014 7:00:00", 
+        "Description": "Event: https://www.facebook.com/events/747944068604754/\nContact: apang.concordia@gmail.com, oclpaus@gmail.com, dpoon168@gmail.com\nwww.facebook.com/theconcordia, https://www.facebook.com/OCLPHK.Australia", 
+        "marker-symbol": "", 
+        "Title": "Sydney", 
+        "title": "Sydney", 
+        "pages": [
+          "www.facebook.com/theconcordia", 
+          "https://www.facebook.com/OCLPHK.Australia"
+        ], 
+        "address": "Queen Victoria Building, 455 George St, Sydney NSW, Australia", 
+        "contacts": [
+          "apang.concordia@gmail.com", 
+          "oclpaus@gmail.com", 
+          "dpoon168@gmail.com"
+        ], 
+        "page": "https://www.facebook.com/events/747944068604754/, www.facebook.com/theconcordia, https://www.facebook.com/OCLPHK.Australia", 
+        "id": "marker-i0ooddkyb", 
+        "Start": "9/29/2014 4:00:00", 
+        "contact": "apang.concordia@gmail.com, oclpaus@gmail.com, dpoon168@gmail.com", 
+        "Time": "", 
+        "Duration": "3:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "Event: https://www.facebook.com/events/747944068604754/\nContact: apang.concordia@gmail.com, oclpaus@gmail.com, dpoon168@gmail.com\nwww.facebook.com/theconcordia, https://www.facebook.com/OCLPHK.Australia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -88.2277183, 
+          40.1021153
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/699900653419675", 
+        "End": "9/29/2014 8:30:00", 
+        "Description": "https://www.facebook.com/events/699900653419675", 
+        "marker-symbol": "", 
+        "Title": "Champaign, IL", 
+        "title": "Champaign, IL", 
+        "address": "Main Quad, University of Illinois at Urbana-Champaign", 
+        "page": "https://www.facebook.com/events/699900653419675", 
+        "id": "marker-i0ooddkyc", 
+        "Start": "9/29/2014 4:30:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "4:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "https://www.facebook.com/events/699900653419675"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.349891, 
+          48.853197
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "9/29/2014 7:00:00", 
+        "Description": "", 
+        "marker-symbol": "", 
+        "Title": "Paris", 
+        "title": "Paris", 
+        "address": "Notre Dame Cathedral, 6 Parvis Notre-Dame - Place Jean-Paul II, Paris, France", 
+        "page": "", 
+        "id": "marker-i0ooddkyd", 
+        "Start": "9/29/2014 5:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          138.599994, 
+          -34.928137
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/1499660220292222/", 
+        "End": "9/29/2014 14:29:00", 
+        "Description": "\u00e8\u00ab\u2039\u00e7\u00b7\u0160\u00e8\u00a8\u02dc\u00ef\u00bc\u0161\u00e7\u00a9\u00bf\u00e9\u00bb\u2018\u00e8\u2030\u00b2\u00e8\u00a1\u00a3\u00e6\u0153\u008d\u00ef\u00bc\u0081\u00e8\u00ac\u009d\u00e8\u00ac\u009d\u00ef\u00bc\u0081\nPage: https://www.facebook.com/events/1499660220292222/", 
+        "marker-symbol": "", 
+        "Title": "Adelaide", 
+        "title": "Adelaide", 
+        "address": "Victoria Square - Tarndanyangga", 
+        "page": "https://www.facebook.com/events/1499660220292222/", 
+        "id": "marker-i0ooddkye", 
+        "Start": "9/29/2014 7:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "7:29", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "\u00e8\u00ab\u2039\u00e7\u00b7\u0160\u00e8\u00a8\u02dc\u00ef\u00bc\u0161\u00e7\u00a9\u00bf\u00e9\u00bb\u2018\u00e8\u2030\u00b2\u00e8\u00a1\u00a3\u00e6\u0153\u008d\u00ef\u00bc\u0081\u00e8\u00ac\u009d\u00e8\u00ac\u009d\u00ef\u00bc\u0081\nPage: https://www.facebook.com/events/1499660220292222/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.379772, 
+          52.516936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/272416779636080", 
+        "End": "9/29/2014 10:30:00", 
+        "Description": "Event: https://www.facebook.com/events/272416779636080\nContact: Hong Kong People in Berlin, sintung@yahoo.com", 
+        "marker-symbol": "", 
+        "Title": "Berlin", 
+        "title": "Berlin", 
+        "address": "Outside the Starbucks at Brandenburger Tor", 
+        "contacts": [
+          "Hong Kong People in Berlin", 
+          "sintung@yahoo.com"
+        ], 
+        "page": "https://www.facebook.com/events/272416779636080", 
+        "id": "marker-i0ooddkyf", 
+        "Start": "9/29/2014 9:30:00", 
+        "contact": "Hong Kong People in Berlin, sintung@yahoo.com", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "Event: https://www.facebook.com/events/272416779636080\nContact: Hong Kong People in Berlin, sintung@yahoo.com"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.295634, 
+          52.086739
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/834725746567447/", 
+        "End": "9/29/2014 11:00:00", 
+        "Description": "\u00e6\u00b2\u00bf\u00e9\u20ac\u201d\u00e6\u00b4\u00be\u00e5\u201a\u00b3\u00e5\u2013\u00ae \u00e7\u00b5\u201a\u00e9\u00bb\u017e\u00e5\u017d\u00bb\u00e6\u00b5\u00b7\u00e7\u2030\u2122\u00e6\u2014\u00a2\u00e4\u00b8\u00ad\u00e5\u0153\u2039\u00e9 \u02dc\u00e4\u00ba\u2039\u00e9\u00a4\u00a8\u00e7\u00b6\u0081\u00e9\u00bb\u0192\u00e7\u00b5\u00b2\u00e5\u00b8\u00b6\nContact: Danny (0647614402) or Elise (0614906677)\nPage: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=regular", 
+        "marker-symbol": "", 
+        "Title": "Den Haag", 
+        "title": "Den Haag", 
+        "address": "Peace Palace", 
+        "contacts": [
+          "Danny (0647614402) or Elise (0614906677)"
+        ], 
+        "page": "https://www.facebook.com/events/834725746567447/", 
+        "id": "marker-i0ooddkyg", 
+        "Start": "9/29/2014 10:00:00", 
+        "contact": "Danny (0647614402) or Elise (0614906677)", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "\u00e6\u00b2\u00bf\u00e9\u20ac\u201d\u00e6\u00b4\u00be\u00e5\u201a\u00b3\u00e5\u2013\u00ae \u00e7\u00b5\u201a\u00e9\u00bb\u017e\u00e5\u017d\u00bb\u00e6\u00b5\u00b7\u00e7\u2030\u2122\u00e6\u2014\u00a2\u00e4\u00b8\u00ad\u00e5\u0153\u2039\u00e9 \u02dc\u00e4\u00ba\u2039\u00e9\u00a4\u00a8\u00e7\u00b6\u0081\u00e9\u00bb\u0192\u00e7\u00b5\u00b2\u00e5\u00b8\u00b6\nContact: Danny (0647614402) or Elise (0614906677)\nPage: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=regular"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.122182, 
+          49.2868246
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/1570326273190574", 
+        "End": "9/29/2014 12:00:00", 
+        "Description": "https://www.facebook.com/events/1570326273190574", 
+        "marker-symbol": "", 
+        "Title": "Vancouver", 
+        "title": "Vancouver", 
+        "address": "1111 Melville Street, Downtown Vancouver", 
+        "page": "https://www.facebook.com/events/1570326273190574", 
+        "id": "marker-i0ooddkyh", 
+        "Start": "9/29/2014 10:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "https://www.facebook.com/events/1570326273190574"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.3508, 
+          48.8567
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/363549887155202/", 
+        "End": "9/29/2014 13:30:00", 
+        "Description": "https://www.facebook.com/events/363549887155202/", 
+        "marker-symbol": "", 
+        "Title": "Paris", 
+        "title": "Paris", 
+        "address": "Champ de Mars, 2 All\u00c3\u00a9e Adrienne Lecouvreur, Paris, France", 
+        "page": "https://www.facebook.com/events/363549887155202/", 
+        "id": "marker-i0ooddkyi", 
+        "Start": "9/29/2014 10:30:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "3:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "https://www.facebook.com/events/363549887155202/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          101.712428, 
+          3.146821
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/1472772143001921/", 
+        "End": "9/29/2014 13:00:00", 
+        "Description": "Event: https://www.facebook.com/events/1472772143001921/", 
+        "marker-symbol": "", 
+        "Title": "Kuala Lumpur", 
+        "title": "Kuala Lumpur", 
+        "address": "Lot 10, Bukit Bintang", 
+        "page": "https://www.facebook.com/events/1472772143001921/", 
+        "id": "marker-i0ooddkyj", 
+        "Start": "9/29/2014 12:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 29", 
+        "description": "Event: https://www.facebook.com/events/1472772143001921/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          170.514503, 
+          -45.864281
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "9/30/2014 7:30:00", 
+        "Description": "https://www.facebook.com/NZHongKonger", 
+        "marker-symbol": "", 
+        "Title": "Dunedin", 
+        "title": "Dunedin", 
+        "pages": [
+          "https://www.facebook.com/NZHongKonger"
+        ], 
+        "address": "University of Otago (St. Davis Lecture Theatere Visitor's Centre)", 
+        "page": "https://www.facebook.com/NZHongKonger", 
+        "id": "marker-i0ooddkyk", 
+        "Start": "9/30/2014 6:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:30", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 30", 
+        "description": "https://www.facebook.com/NZHongKonger"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          139.71998, 
+          35.709838
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/351844224983158/", 
+        "End": "9/30/2014 10:00:00", 
+        "Description": "Page: https://www.facebook.com/events/351844224983158/", 
+        "marker-symbol": "", 
+        "Title": "Tokyo", 
+        "title": "Tokyo", 
+        "address": "Okuma Hall, Wasedu University", 
+        "page": "https://www.facebook.com/events/351844224983158/", 
+        "id": "marker-i0ooddkyl", 
+        "Start": "9/30/2014 8:30:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:30", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 30", 
+        "description": "Page: https://www.facebook.com/events/351844224983158/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.792752, 
+          56.341803
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/728594343868873/", 
+        "End": "10/2/2014 0:00:00", 
+        "Description": "", 
+        "marker-symbol": "", 
+        "Title": "Fife, Scotland (TBD)", 
+        "title": "Fife, Scotland (TBD)", 
+        "address": "Universtiy of St Andrews", 
+        "page": "https://www.facebook.com/events/728594343868873/", 
+        "id": "marker-i0ooddkym", 
+        "Start": "10/1/2014 0:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "24:00:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.178848, 
+          44.009241
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/342842629225809/?ref=22", 
+        "End": "10/2/2014 0:00:00", 
+        "Description": "Page: https://www.facebook.com/events/342842629225809/?ref=22\nContact: The Midd Kids of Hong Kong (https://www.facebook.com/pages/The-Middkids-of-Hong-Kong/705654002842895?fref=nf)", 
+        "marker-symbol": "", 
+        "Title": "Middlebury, VT", 
+        "title": "Middlebury, VT", 
+        "pages": [
+          "https://www.facebook.com/pages/The-Middkids-of-Hong-Kong/705654002842895?fref=nf"
+        ], 
+        "address": "Middlebury College", 
+        "contacts": [
+          "The Midd Kids of Hong Kong"
+        ], 
+        "page": "https://www.facebook.com/events/342842629225809/?ref=22", 
+        "id": "marker-i0ooddkyn", 
+        "Start": "10/1/2014 0:00:00", 
+        "contact": "The Midd Kids of Hong Kong, https://www.facebook.com/pages/The-Middkids-of-Hong-Kong/705654002842895?fref=nf", 
+        "Time": "", 
+        "Duration": "24:00:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Page: https://www.facebook.com/events/342842629225809/?ref=22\nContact: The Midd Kids of Hong Kong (https://www.facebook.com/pages/The-Middkids-of-Hong-Kong/705654002842895?fref=nf)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          126.976522, 
+          37.571793
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "10/2/2014 0:00:00", 
+        "Description": "Contact: \u00e5\u0153\u00a8\u00e9\u0178\u201c\u00e6\u00b8\u00af\u00e4\u00ba\u00ba\u00e6\u201d\u00bf\u00e6\u201d\u00b9\u00e9\u2014\u0153\u00e6\u00b3\u00a8\u00e7\u00b5\u201e ohtakrim@gmail.com\nhttps://www.facebook.com/hkeseinkorea", 
+        "marker-symbol": "", 
+        "Title": "Seoul (TBD)", 
+        "title": "Seoul (TBD)", 
+        "pages": [
+          "https://www.facebook.com/hkeseinkorea"
+        ], 
+        "address": "Gwanghwamun/ \u00ea\u00b4\u2018\u00ed\u2122\u201d\u00eb\u00ac\u00b8", 
+        "contacts": [
+          "\u00e5\u0153\u00a8\u00e9\u0178\u201c\u00e6\u00b8\u00af\u00e4\u00ba\u00ba\u00e6\u201d\u00bf\u00e6\u201d\u00b9\u00e9\u2014\u0153\u00e6\u00b3\u00a8\u00e7\u00b5\u201e ohtakrim@gmail.com"
+        ], 
+        "page": "https://www.facebook.com/hkeseinkorea", 
+        "id": "marker-i0ooddkyo", 
+        "Start": "10/1/2014 0:00:00", 
+        "contact": "\u00e5\u0153\u00a8\u00e9\u0178\u201c\u00e6\u00b8\u00af\u00e4\u00ba\u00ba\u00e6\u201d\u00bf\u00e6\u201d\u00b9\u00e9\u2014\u0153\u00e6\u00b3\u00a8\u00e7\u00b5\u201e ohtakrim@gmail.com", 
+        "Time": "", 
+        "Duration": "24:00:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Contact: \u00e5\u0153\u00a8\u00e9\u0178\u201c\u00e6\u00b8\u00af\u00e4\u00ba\u00ba\u00e6\u201d\u00bf\u00e6\u201d\u00b9\u00e9\u2014\u0153\u00e6\u00b3\u00a8\u00e7\u00b5\u201e ohtakrim@gmail.com\nhttps://www.facebook.com/hkeseinkorea"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -95.390878, 
+          29.741737
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/1535503596683235/", 
+        "End": "10/1/2014 3:30:00", 
+        "Description": "https://www.facebook.com/events/1535503596683235/", 
+        "marker-symbol": "", 
+        "Title": "Houston, TX", 
+        "title": "Houston, TX", 
+        "address": "PRC Consulate General, 3417 Montrose Blvd", 
+        "page": "https://www.facebook.com/events/1535503596683235/", 
+        "id": "marker-i0ooddkyp", 
+        "Start": "10/1/2014 1:30:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "https://www.facebook.com/events/1535503596683235/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.288189, 
+          55.872256
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "10/1/2014 9:00:00", 
+        "Description": "Page: https://www.facebook.com/events/957465404270869/?ref=48&source=1", 
+        "marker-symbol": "", 
+        "Title": "Glasgow", 
+        "title": "Glasgow", 
+        "address": "University of Glasgow Library", 
+        "page": "", 
+        "id": "marker-i0ooddkyq", 
+        "Start": "10/1/2014 3:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "6:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Page: https://www.facebook.com/events/957465404270869/?ref=48&source=1"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -87.6847, 
+          41.8369
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "9/28/2014 8:00:00", 
+        "Description": "Contact: chengkitying2001@gmail.com\nPage: https://www.facebook.com/chicagohkdemocracy/info", 
+        "marker-symbol": "", 
+        "Title": "Chicago", 
+        "title": "Chicago", 
+        "pages": [
+          "https://www.facebook.com/chicagohkdemocracy/info"
+        ], 
+        "address": "Chinatown Square (The Chinese Zodiac)", 
+        "contacts": [
+          "chengkitying2001@gmail.com"
+        ], 
+        "page": "https://www.facebook.com/chicagohkdemocracy/info", 
+        "id": "marker-i0ooddky1", 
+        "Start": "9/28/2014 7:00:00", 
+        "contact": "chengkitying2001@gmail.com", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Sept 28", 
+        "description": "Contact: chengkitying2001@gmail.com\nPage: https://www.facebook.com/chicagohkdemocracy/info"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          174.763347, 
+          -36.852694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/1475741292704239/", 
+        "End": "10/1/2014 6:00:00", 
+        "Description": "Contact: Kw Ho, kwho94@yahoo.com.hk\nEvent: https://www.facebook.com/events/1475741292704239/\nPage: https://www.facebook.com/NZHongKonger", 
+        "marker-symbol": "", 
+        "Title": "Auckland", 
+        "title": "Auckland", 
+        "pages": [
+          "https://www.facebook.com/NZHongKonger"
+        ], 
+        "address": "Auckland Town Hall, Queen Street", 
+        "contacts": [
+          "Kw Ho", 
+          "kwho94@yahoo.com.hk"
+        ], 
+        "page": "https://www.facebook.com/events/1475741292704239/, https://www.facebook.com/NZHongKonger", 
+        "id": "marker-i0ooddkys", 
+        "Start": "10/1/2014 4:00:00", 
+        "contact": "Kw Ho, kwho94@yahoo.com.hk", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Contact: Kw Ho, kwho94@yahoo.com.hk\nEvent: https://www.facebook.com/events/1475741292704239/\nPage: https://www.facebook.com/NZHongKonger"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.965223, 
+          -37.809584
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/309858412551984", 
+        "End": "10/1/2014 6:00:00", 
+        "Description": "Event: https://www.facebook.com/events/309858412551984", 
+        "marker-symbol": "", 
+        "Title": "Melbourne", 
+        "title": "Melbourne", 
+        "address": "State Library of Victoria, 328 Swanston Street", 
+        "page": "https://www.facebook.com/events/309858412551984", 
+        "id": "marker-i0ooddkyt", 
+        "Start": "10/1/2014 4:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Event: https://www.facebook.com/events/309858412551984"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.576187, 
+          45.506154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/385942264896916/?ref=4", 
+        "End": "10/1/2014 10:00:00", 
+        "Description": "Contact: Michael Law hong.law@mail.mcgill.ca\nhttps://www.facebook.com/events/385942264896916/?ref=4", 
+        "marker-symbol": "", 
+        "Title": "Montreal / McGill", 
+        "title": "Montreal / McGill", 
+        "address": "Mcgill University - Mcconnell Engineering Building", 
+        "contacts": [
+          "Michael Law hong.law@mail.mcgill.ca"
+        ], 
+        "page": "https://www.facebook.com/events/385942264896916/?ref=4", 
+        "id": "marker-i0ooddkyu", 
+        "Start": "10/1/2014 4:00:00", 
+        "contact": "Michael Law hong.law@mail.mcgill.ca", 
+        "Time": "", 
+        "Duration": "6:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Contact: Michael Law hong.law@mail.mcgill.ca\nhttps://www.facebook.com/events/385942264896916/?ref=4"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          175.519523, 
+          -40.386523
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "10/1/2014 6:00:00", 
+        "Description": "https://www.facebook.com/NZHongKonger", 
+        "marker-symbol": "", 
+        "Title": "Palmerston North", 
+        "title": "Palmerston North", 
+        "pages": [
+          "https://www.facebook.com/NZHongKonger"
+        ], 
+        "address": "Massey University Library Entrace", 
+        "page": "https://www.facebook.com/NZHongKonger", 
+        "id": "marker-i0ooddkyv", 
+        "Start": "10/1/2014 4:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "https://www.facebook.com/NZHongKonger"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.1889, 
+          55.9531
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/263095633899496", 
+        "End": "10/1/2014 7:00:00", 
+        "Description": "Contact: Yvonne Yu, yvonne.yu@richmond.edu\nEvent: https://www.facebook.com/events/263095633899496\nPage: https://www.facebook.com/edinburghfordemocracyinhk", 
+        "marker-symbol": "", 
+        "Title": "Edinburgh", 
+        "title": "Edinburgh", 
+        "pages": [
+          "https://www.facebook.com/edinburghfordemocracyinhk"
+        ], 
+        "address": "Main Library, University of Edinburgh", 
+        "contacts": [
+          "Yvonne Yu", 
+          "yvonne.yu@richmond.edu"
+        ], 
+        "page": "https://www.facebook.com/events/263095633899496, https://www.facebook.com/edinburghfordemocracyinhk", 
+        "id": "marker-i0ooddkyw", 
+        "Start": "10/1/2014 5:00:00", 
+        "contact": "Yvonne Yu, yvonne.yu@richmond.edu", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Contact: Yvonne Yu, yvonne.yu@richmond.edu\nEvent: https://www.facebook.com/events/263095633899496\nPage: https://www.facebook.com/edinburghfordemocracyinhk"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.6, 
+          54.9667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "10/1/2014 6:30:00", 
+        "Description": "", 
+        "marker-symbol": "", 
+        "Title": "Newcastle", 
+        "title": "Newcastle", 
+        "address": "Heymarket Metro Station", 
+        "page": "", 
+        "id": "marker-i0ooddkyx", 
+        "Start": "10/1/2014 5:30:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.0686, 
+          59.3294
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/730140170391527/", 
+        "End": "10/1/2014 7:00:00", 
+        "Description": "Dress code: Black. \nBring umbrellas, face masks and goggles if you have some!\nPage: https://www.facebook.com/events/730140170391527/", 
+        "marker-symbol": "", 
+        "Title": "Stockholm", 
+        "title": "Stockholm", 
+        "address": "Konserthuset", 
+        "page": "https://www.facebook.com/events/730140170391527/", 
+        "id": "marker-i0ooddkyy", 
+        "Start": "10/1/2014 6:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Dress code: Black. \nBring umbrellas, face masks and goggles if you have some!\nPage: https://www.facebook.com/events/730140170391527/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -79.4, 
+          43.7
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "10/1/2014 7:00:00", 
+        "Description": "Contact: chklink@gmail.com, oclptoronto@gmail.com\nPage: https://www.facebook.com/CHKLink, https://www.facebook.com/OCLP.Toronto", 
+        "marker-symbol": "", 
+        "Title": "Toronto", 
+        "title": "Toronto", 
+        "pages": [
+          "https://www.facebook.com/CHKLink", 
+          "https://www.facebook.com/OCLP.Toronto"
+        ], 
+        "address": "HKETO, Saint George Street", 
+        "contacts": [
+          "chklink@gmail.com", 
+          "oclptoronto@gmail.com"
+        ], 
+        "page": "https://www.facebook.com/CHKLink, https://www.facebook.com/OCLP.Toronto", 
+        "id": "marker-i0ooddkyz", 
+        "Start": "10/1/2014 6:00:00", 
+        "contact": "chklink@gmail.com, oclptoronto@gmail.com", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Contact: chklink@gmail.com, oclptoronto@gmail.com\nPage: https://www.facebook.com/CHKLink, https://www.facebook.com/OCLP.Toronto"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.5683, 
+          55.6761
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/558544454245889", 
+        "End": "10/1/2014 11:00:00", 
+        "Description": "Contact: Terry Chan schterrycy@gmail.com\nEvent: https://www.facebook.com/events/558544454245889", 
+        "marker-symbol": "", 
+        "Title": "Copenhagen", 
+        "title": "Copenhagen", 
+        "address": "R\u00c3\u00a5dhuspladsen (City Hall Sqaure)", 
+        "contacts": [
+          "Terry Chan schterrycy@gmail.com"
+        ], 
+        "page": "https://www.facebook.com/events/558544454245889", 
+        "id": "marker-i0ooddky10", 
+        "Start": "10/1/2014 8:00:00", 
+        "contact": "Terry Chan schterrycy@gmail.com", 
+        "Time": "", 
+        "Duration": "3:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Contact: Terry Chan schterrycy@gmail.com\nEvent: https://www.facebook.com/events/558544454245889"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0014, 
+          53.5653
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/826339524085440/", 
+        "End": "10/1/2014 10:00:00", 
+        "Description": "https://www.facebook.com/events/826339524085440/", 
+        "marker-symbol": "", 
+        "Title": "Hamburg", 
+        "title": "Hamburg", 
+        "address": "M\u00c3\u00b6nckebergstra\u00c3\u0178e, 20095 Hamburg, Germany", 
+        "page": "https://www.facebook.com/events/826339524085440/", 
+        "id": "marker-i0ooddky11", 
+        "Start": "10/1/2014 8:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "https://www.facebook.com/events/826339524085440/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.75, 
+          59.95
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "10/1/2014 9:30:00", 
+        "Description": "https://www.facebook.com/groups/hkstudentassociation/", 
+        "marker-symbol": "", 
+        "Title": "Oslo", 
+        "title": "Oslo", 
+        "pages": [
+          "https://www.facebook.com/groups/hkstudentassociation/"
+        ], 
+        "address": "Jernbanetorget, Norway", 
+        "page": "https://www.facebook.com/groups/hkstudentassociation/", 
+        "id": "marker-i0ooddky12", 
+        "Start": "10/1/2014 8:30:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "https://www.facebook.com/groups/hkstudentassociation/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          172.6203, 
+          -43.53
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "10/1/2014 11:30:00", 
+        "Description": "Event: https://www.facebook.com/events/581019222004732/", 
+        "marker-symbol": "", 
+        "Title": "Christchurch, NZ", 
+        "title": "Christchurch, NZ", 
+        "address": "Cathedral Square, Colombo Street", 
+        "page": "", 
+        "id": "marker-i0ooddkz13", 
+        "Start": "10/1/2014 10:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:30", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Event: https://www.facebook.com/events/581019222004732/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          120.2667, 
+          22.6333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/739988899406415", 
+        "End": "10/1/2014 11:00:00", 
+        "Description": "https://www.facebook.com/events/739988899406415", 
+        "marker-symbol": "", 
+        "Title": "Kaohsiung", 
+        "title": "Kaohsiung", 
+        "address": "\u00e9\u00a7\u0081\u00e4\u00ba\u0152\u00e8\u2014\u009d\u00e8\u00a1\u201c\u00e7\u2030\u00b9\u00e5\u008d\u20ac, 803 \u00e9\u00ab\u02dc\u00e9\u203a\u201e\u00e5\u00b8\u201a\u00e9\u00b9\u00bd\u00e5\u0178\u2022\u00e5\u008d\u20ac\u00e5\u00a4\u00a7\u00e5\u2039\u2021\u00e8\u00b7\u00af1\u00e8\u2122\u0178", 
+        "page": "https://www.facebook.com/events/739988899406415", 
+        "id": "marker-i0ooddkz14", 
+        "Start": "10/1/2014 10:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "https://www.facebook.com/events/739988899406415"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.2333, 
+          53.4667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/905896499422564/", 
+        "End": "10/1/2014 13:00:00", 
+        "Description": "https://www.facebook.com/events/905896499422564/", 
+        "marker-symbol": "", 
+        "Title": "Manchester", 
+        "title": "Manchester", 
+        "address": "Piccadilly Gardens, United Kingdom", 
+        "page": "https://www.facebook.com/events/905896499422564/", 
+        "id": "marker-i0ooddkz15", 
+        "Start": "10/1/2014 10:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "3:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "https://www.facebook.com/events/905896499422564/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          121.6333, 
+          25.0333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "10/1/2014 12:00:00", 
+        "Description": "Event page: https://www.facebook.com/events/719822681432856/", 
+        "marker-symbol": "", 
+        "Title": "Taipei", 
+        "title": "Taipei", 
+        "address": "Liberty Square \u00e8\u2021\u00aa\u00e7\u201d\u00b1\u00e5\u00bb\u00a3\u00e5 \u00b4", 
+        "page": "", 
+        "id": "marker-i0ooddkz16", 
+        "Start": "10/1/2014 10:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Event page: https://www.facebook.com/events/719822681432856/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -77.0367, 
+          38.8951
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/1579790465582410", 
+        "End": "10/1/2014 12:00:00", 
+        "Description": "https://www.facebook.com/events/1579790465582410", 
+        "marker-symbol": "", 
+        "Title": "Washington DC", 
+        "title": "Washington DC", 
+        "address": "HKETO, 1520 18th St NW, Washington, DC", 
+        "page": "https://www.facebook.com/events/1579790465582410", 
+        "id": "marker-i0ooddkz17", 
+        "Start": "10/1/2014 10:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "https://www.facebook.com/events/1579790465582410"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -77.0367, 
+          38.8951
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "End": "10/1/2014 11:00:00", 
+        "Description": "", 
+        "marker-symbol": "", 
+        "Title": "Washington DC", 
+        "title": "Washington DC", 
+        "address": "HKETO, 1520 18th St NW, Washington, DC", 
+        "page": "", 
+        "id": "marker-i0ooddkz18", 
+        "Start": "10/1/2014 10:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "1:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.3508, 
+          48.8567
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/363549887155202/", 
+        "End": "10/1/2014 13:30:00", 
+        "Description": "Event page: https://www.facebook.com/events/363549887155202/", 
+        "marker-symbol": "", 
+        "Title": "Paris", 
+        "title": "Paris", 
+        "address": "Champ de Mars, 2 All\u00c3\u00a9e Adrienne Lecouvreur, Paris, France", 
+        "page": "https://www.facebook.com/events/363549887155202/", 
+        "id": "marker-i0ooddkz19", 
+        "Start": "10/1/2014 10:30:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "3:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Event page: https://www.facebook.com/events/363549887155202/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.1275, 
+          51.5072
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/1542707772626971", 
+        "End": "10/1/2014 14:00:00", 
+        "Description": "Event page: https://www.facebook.com/events/1542707772626971\nContact: Hong Kong Overseas Alliance HKOA.official@gmail.com", 
+        "marker-symbol": "", 
+        "Title": "London", 
+        "title": "London", 
+        "address": "Chinese Embassy, 49-51 Portland Place, W1B 1JL London, United Kingdom", 
+        "contacts": [
+          "Hong Kong Overseas Alliance HKOA.official@gmail.com"
+        ], 
+        "page": "https://www.facebook.com/events/1542707772626971", 
+        "id": "marker-i0ooddkz1a", 
+        "Start": "10/1/2014 11:00:00", 
+        "contact": "Hong Kong Overseas Alliance HKOA.official@gmail.com", 
+        "Time": "", 
+        "Duration": "3:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Event page: https://www.facebook.com/events/1542707772626971\nContact: Hong Kong Overseas Alliance HKOA.official@gmail.com"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.3331, 
+          47.6097
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/289898761206924", 
+        "End": "10/1/2014 13:00:00", 
+        "Description": "Video filming starts at 6pm.\nContact: Tina Choi  tinachoius@gmail.com\nEvent:https://www.facebook.com/events/289898761206924", 
+        "marker-symbol": "", 
+        "Title": "Seattle", 
+        "title": "Seattle", 
+        "address": "University of Washington Red Square", 
+        "contacts": [
+          "Tina Choi tinachoius@gmail.com"
+        ], 
+        "page": "https://www.facebook.com/events/289898761206924", 
+        "id": "marker-i0ooddkz1b", 
+        "Start": "10/1/2014 11:00:00", 
+        "contact": "Tina Choi tinachoius@gmail.com", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Video filming starts at 6pm.\nContact: Tina Choi  tinachoius@gmail.com\nEvent:https://www.facebook.com/events/289898761206924"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.0636, 
+          42.3581
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/720852117983304", 
+        "End": "10/1/2014 13:00:00", 
+        "Description": "Contact: Angela Chan angela.kawai.chan@gmail.com\nEvent: https://www.facebook.com/events/720852117983304", 
+        "marker-symbol": "", 
+        "Title": "Boston", 
+        "title": "Boston", 
+        "address": "Boston Common, Boston, MA, United States", 
+        "contacts": [
+          "Angela Chan angela.kawai.chan@gmail.com"
+        ], 
+        "page": "https://www.facebook.com/events/720852117983304", 
+        "id": "marker-i0ooddkz1c", 
+        "Start": "10/1/2014 11:30:00", 
+        "contact": "Angela Chan angela.kawai.chan@gmail.com", 
+        "Time": "", 
+        "Duration": "1:30", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Contact: Angela Chan angela.kawai.chan@gmail.com\nEvent: https://www.facebook.com/events/720852117983304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          113.55, 
+          22.1667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/813032265383925/", 
+        "End": "10/1/2014 14:00:00", 
+        "Description": "Event: https://www.facebook.com/events/813032265383925/\nGroup: https://www.facebook.com/pages/%E6%BE%B3%E9%96%80%E8%81%B2%E6%8F%B4%E9%A6%99%E6%B8%AF%E7%88%AD%E5%8F%96%E6%B0%91%E4%B8%BB%E6%99%AE%E9%81%B8/1509385299318943", 
+        "marker-symbol": "", 
+        "Title": "Macau", 
+        "title": "Macau", 
+        "pages": [
+          "https://www.facebook.com/pages/\u00e6\u00be\u00b3\u00e9\u2013\u20ac\u00e8\u0081\u00b2\u00e6\u008f\u00b4\u00e9\u00a6\u2122\u00e6\u00b8\u00af\u00e7\u02c6\u00ad\u00e5\u008f\u2013\u00e6\u00b0\u2018\u00e4\u00b8\u00bb\u00e6\u2122\u00ae\u00e9\u0081\u00b8/1509385299318943"
+        ], 
+        "address": "Field in front of Legislature", 
+        "page": "https://www.facebook.com/events/813032265383925/, https://www.facebook.com/pages/\u00e6\u00be\u00b3\u00e9\u2013\u20ac\u00e8\u0081\u00b2\u00e6\u008f\u00b4\u00e9\u00a6\u2122\u00e6\u00b8\u00af\u00e7\u02c6\u00ad\u00e5\u008f\u2013\u00e6\u00b0\u2018\u00e4\u00b8\u00bb\u00e6\u2122\u00ae\u00e9\u0081\u00b8/1509385299318943", 
+        "id": "marker-i0ooddkz1d", 
+        "Start": "10/1/2014 12:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 1", 
+        "description": "Event: https://www.facebook.com/events/813032265383925/\nGroup: https://www.facebook.com/pages/%E6%BE%B3%E9%96%80%E8%81%B2%E6%8F%B4%E9%A6%99%E6%B8%AF%E7%88%AD%E5%8F%96%E6%B0%91%E4%B8%BB%E6%99%AE%E9%81%B8/1509385299318943"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.2597, 
+          53.3478
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/544139535730004/", 
+        "End": "10/2/2014 11:30:00", 
+        "Description": "Page: https://www.facebook.com/events/544139535730004/", 
+        "marker-symbol": "", 
+        "Title": "Dublin", 
+        "title": "Dublin", 
+        "address": "GPO,O'Connell Street", 
+        "page": "https://www.facebook.com/events/544139535730004/", 
+        "id": "marker-i0ooddkz1e", 
+        "Start": "10/2/2014 9:30:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 2", 
+        "description": "Page: https://www.facebook.com/events/544139535730004/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.1889, 
+          55.9531
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/506932422777663/", 
+        "End": "10/2/2014 12:00:00", 
+        "Description": "Contact: Yvonne Yu, yvonne.yu@richmond.edu\nEvent: https://www.facebook.com/events/506932422777663/\nPage: https://www.facebook.com/edinburghfordemocracyinhk", 
+        "marker-symbol": "", 
+        "Title": "Edinburgh", 
+        "title": "Edinburgh", 
+        "pages": [
+          "https://www.facebook.com/edinburghfordemocracyinhk"
+        ], 
+        "address": "Plaza in front of St. Giles Cathedral (Heart of Midlothian)", 
+        "page": "https://www.facebook.com/events/506932422777663/, https://www.facebook.com/edinburghfordemocracyinhk", 
+        "id": "marker-i0ooddkz1f", 
+        "Start": "10/2/2014 10:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 2", 
+        "description": "Contact: Yvonne Yu, yvonne.yu@richmond.edu\nEvent: https://www.facebook.com/events/506932422777663/\nPage: https://www.facebook.com/edinburghfordemocracyinhk"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.45, 
+          46.95
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/987325397960441", 
+        "End": "10/4/2014 5:00:00", 
+        "Description": "https://www.facebook.com/events/987325397960441", 
+        "marker-symbol": "", 
+        "Title": "Bern, Switzerland", 
+        "title": "Bern, Switzerland", 
+        "address": "Chinese Embassy, Lombachweg 23, 3006 Bern", 
+        "page": "https://www.facebook.com/events/987325397960441", 
+        "id": "marker-i0ooddkz1g", 
+        "Start": "10/4/2014 3:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 4", 
+        "description": "https://www.facebook.com/events/987325397960441"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.6833, 
+          50.1167
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "event": "https://www.facebook.com/events/648555595259122", 
+        "End": "10/4/2014 11:00:00", 
+        "Description": "Location: in front of the Paulskirche\nDresscode: black with yellow ribbon\nPage: https://www.facebook.com/events/648555595259122", 
+        "marker-symbol": "", 
+        "Title": "Frankfurt", 
+        "title": "Frankfurt", 
+        "address": "Saint Paul Church, Frankfurt am Main, in front of the Paulskirche", 
+        "page": "https://www.facebook.com/events/648555595259122", 
+        "id": "marker-i0ooddkz1h", 
+        "Start": "10/4/2014 9:00:00", 
+        "contact": "", 
+        "Time": "", 
+        "Duration": "2:00", 
+        "marker-color": "", 
+        "marker-size": "", 
+        "Day": "Oct 4", 
+        "description": "Location: in front of the Paulskirche\nDresscode: black with yellow ribbon\nPage: https://www.facebook.com/events/648555595259122"
+      }
+    }
+  ], 
+  "id": "ohnorobo.jkpagd3l"
+}
