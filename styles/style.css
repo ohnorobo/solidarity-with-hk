@@ -124,6 +124,10 @@ body > div.container {
     color: #777;
 }
 
+.control h4 #website{
+    color: #336699;
+}
+
 /* only center the search in the big view */
 @media (min-width: 768px) {
   #search {

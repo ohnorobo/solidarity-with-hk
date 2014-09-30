@@ -14,8 +14,8 @@
     "Title",
     "address",
     {"name": "Day", "title": "Day"},
-    {"name": "page", "title": "website"},
-    {"name": "contact", "title": "Contact Information" }
+    {"name": "contact", "title": "Contact Information" },
+    {"name": "page", "title": "Link to event page", "url": "website"}
   ],
   "search": {
     "geosearch": true,
