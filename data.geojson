@@ -1076,7 +1076,7 @@
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [77.0367, 38.8951],
+            "coordinates": [-77.0367, 38.8951],
             "type": "Point"
         },
         "properties": {
@@ -1101,7 +1101,7 @@
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [77.0367, 38.8951],
+            "coordinates": [-77.0367, 38.8951],
             "type": "Point"
         },
         "properties": {
