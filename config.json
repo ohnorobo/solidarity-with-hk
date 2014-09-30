@@ -6,19 +6,15 @@
   },
   "map": {
     "preview_attribute": "Title",
-    "center":[22.2670, 114.1880],
-    "zoom":10,
-    "maxZoom":13,
-    "maxBounds":[
-      [90.0, -90.0],
-      [180.0, -180.0]
-    ]
+    "center":[0.0, 0.0],
+    "zoom": 2,
+    "maxZoom":10
   },
   "properties": [
     "Title",
     {"name": "address", "title": "Address"},
     {"name": "Day", "title": "Day"},
-    {"name": "page", "title": "website", "url": true },
+    {"name": "page", "title": "website"},
     {"name": "contact", "title": "Contact Information" }
   ],
   "search": {

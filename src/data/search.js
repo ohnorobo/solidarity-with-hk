@@ -9,7 +9,7 @@ define(function(require) {
       searchUrl: '//nominatim.openstreetmap.org/search'
     });
     this.configureSearch = function(ev, config) {
-      if (config.search && config.search.geosearch) {
+      if (config.search && config.search.geosearch && config.map.maxBounds) {
         this.maxBounds = config.map.maxBounds;
       } else {
         this.teardown();
