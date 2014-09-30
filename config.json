@@ -12,7 +12,7 @@
   },
   "properties": [
     "Title",
-    {"name": "address", "title": "Address"},
+    "address",
     {"name": "Day", "title": "Day"},
     {"name": "page", "title": "website"},
     {"name": "contact", "title": "Contact Information" }
