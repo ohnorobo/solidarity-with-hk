@@ -5,7 +5,7 @@
     "contact": "Code4HK"
   },
   "map": {
-    "preview_attribute": "title",
+    "preview_attribute": "Title",
     "center":[22.2670, 114.1880],
     "zoom":10,
     "maxZoom":13,
@@ -15,9 +15,9 @@
     ]
   },
   "properties": [
-    "title",
+    "Title",
     {"name": "address", "title": "Address"},
-    {"name": "day", "title": "Day"},
+    {"name": "Day", "title": "Day"},
     {"name": "page", "title": "website", "url": true },
     {"name": "contact", "title": "Contact Information" }
   ],
@@ -33,11 +33,11 @@
     }
   },
   "facets": {
-    "day": {
+    "Day": {
       "title": "Day",
       "type": "single"
     },
-    "title": {
+    "Title": {
       "title": "Location",
       "type": "single"
     }
