@@ -197,7 +197,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 28", 
-        "description": "Contact: ncal.hkclub@gmail.com, leonard.lau@gmail.com\nPage: www.facebook.com/ncal.hkclub\nhttps://www.facebook.com/OCLPUSWest"
+        "description": "Contact: ncal.hkclub@gmail.com, leonard.lau@gmail.com\nPage: www.facebook.com/ncal.hkclub\nhttps://www.facebook.com/OCLPUSWest",
+        "photos": [
+          "./img/photos/sanfrancisco/SF1.jpg",
+          "./img/photos/sanfrancisco/SF2.jpg",
+          "./img/photos/sanfrancisco/SF3.jpg",
+          "./img/photos/sanfrancisco/SF4.jpg",
+          "./img/photos/sanfrancisco/SF5.jpg"
+        ]
       }
     }, 
     {
