@@ -156,10 +156,7 @@
       "type": "Feature", 
       "properties": {
         "End": "9/28/2014 9:00:00", 
-        "Description": "(唐人街孔子大廈對開廣場
-33 Bowery, New York, NY 10002)
-Please wear black.
-Contact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)", 
+        "Description": "(唐人街孔子大廈對開廣場 33 Bowery, New York, NY 10002)Please wear black. Contact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)", 
         "marker-symbol": "", 
         "Title": "New York City", 
         "title": "New York City", 
@@ -177,10 +174,7 @@ Contact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)",
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 28", 
-        "description": "(唐人街孔子大廈對開廣場
-33 Bowery, New York, NY 10002)
-Please wear black.
-Contact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)"
+        "description": "(唐人街孔子大廈對開廣場 33 Bowery, New York, NY 10002)Please wear black. Contact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)"
       }
     }, 
     {
@@ -528,8 +522,7 @@ Contact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)"
       "properties": {
         "event": "https://www.facebook.com/events/1499660220292222/", 
         "End": "9/29/2014 14:29:00", 
-        "Description": "請緊記：穿黑色衣服！謝謝！
-Page: https://www.facebook.com/events/1499660220292222/", 
+        "Description": "請緊記：穿黑色衣服！謝謝！Page: https://www.facebook.com/events/1499660220292222/", 
         "marker-symbol": "", 
         "Title": "Adelaide", 
         "title": "Adelaide", 
@@ -543,8 +536,7 @@ Page: https://www.facebook.com/events/1499660220292222/",
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 29", 
-        "description": "請緊記：穿黑色衣服！謝謝！
-Page: https://www.facebook.com/events/1499660220292222/"
+        "description": "請緊記：穿黑色衣服！謝謝！Page: https://www.facebook.com/events/1499660220292222/"
       }
     }, 
     {
@@ -592,9 +584,7 @@ Page: https://www.facebook.com/events/1499660220292222/"
       "properties": {
         "event": "https://www.facebook.com/events/834725746567447/", 
         "End": "9/29/2014 11:00:00", 
-        "Description": "沿途派傳單 終點去海牙既中國領事館綁黃絲帶
-Contact: Danny (0647614402) or Elise (0614906677)
-Page: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=regular", 
+        "Description": "沿途派傳單 終點去海牙既中國領事館綁黃絲帶 Contact: Danny (0647614402) or Elise (0614906677) Page: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=regular", 
         "marker-symbol": "", 
         "Title": "Den Haag", 
         "title": "Den Haag", 
@@ -611,9 +601,7 @@ Page: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=r
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 29", 
-        "description": "沿途派傳單 終點去海牙既中國領事館綁黃絲帶
-Contact: Danny (0647614402) or Elise (0614906677)
-Page: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=regular"
+        "description": "沿途派傳單 終點去海牙既中國領事館綁黃絲帶 Contact: Danny (0647614402) or Elise (0614906677) Page: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=regular"
       }
     }, 
     {
@@ -1637,7 +1625,7 @@ Page: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=r
         "Title": "Macau", 
         "title": "Macau", 
         "pages": [
-          "https://www.facebook.com/events/813032265383925/, https://www.facebook.com/pages/澳門聲援香港爭取民主普選/1509385299318943"
+          "https://www.facebook.com/pages/澳門聲援香港爭取民主普選/1509385299318943"
         ], 
         "address": "Field in front of Legislature", 
         "page": "https://www.facebook.com/events/813032265383925/, https://www.facebook.com/pages/澳門聲援香港爭取民主普選/1509385299318943", 
@@ -1649,7 +1637,7 @@ Page: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=r
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Event: https://www.facebook.com/events/813032265383925/, https://www.facebook.com/pages/澳門聲援香港爭取民主普選/1509385299318943"
+        "description": "Event: https://www.facebook.com/events/813032265383925/\nGroup: https://www.facebook.com/pages/%E6%BE%B3%E9%96%80%E8%81%B2%E6%8F%B4%E9%A6%99%E6%B8%AF%E7%88%AD%E5%8F%96%E6%B0%91%E4%B8%BB%E6%99%AE%E9%81%B8/1509385299318943"
       }
     }, 
     {
