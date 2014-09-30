@@ -13,7 +13,7 @@
   "properties": [
     "Title",
     "address",
-    {"name": "event", "title": "event", "url": true},
+    {"name": "event", "title": "Link to Event Page", "url": true},
     {"name": "Day", "title": "Day"},
     {"name": "contacts", "title": "Contact Information"},
     {"name": "pages", "title": "Pages"}

@@ -4,7 +4,7 @@ define(function(require, exports) {
       _ = require('lodash');
 
   var templates = {
-    url: Handlebars.compile('<a href="{{url}}">{{title}}</a>'),
+    url: Handlebars.compile('<a href="{{url}}" target="_blank"><h4 id="website">{{title}}<h4></a>'),
     image: Handlebars.compile('<img src="{{url}}"/>'),
     title: Handlebars.compile('<div><h4>{{title}}</h4><div>{{{rendered}}}</div></div>'),
     list: Handlebars.compile('<ul> {{#list}} <li>{{{this}}}</li> {{/list}} </ul>'),
