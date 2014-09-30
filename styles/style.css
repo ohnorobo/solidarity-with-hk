@@ -179,3 +179,7 @@ body > div.container {
   height: 2.5em;
   float: left;
 }
+
+.brand_image {
+  width: 40px;
+}
