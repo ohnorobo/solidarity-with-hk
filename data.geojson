@@ -62,7 +62,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 28", 
-        "description": "contact: oclptoronto@gmail.com, chklink@gmail.com\npage: https://www.facebook.com/CHKLink"
+        "description": "contact: oclptoronto@gmail.com, chklink@gmail.com\npage: https://www.facebook.com/CHKLink",
+        "photos": [
+          "./img/photos/toronto/toronto1.jpg",
+          "./img/photos/toronto/toronto2.jpg",
+          "./img/photos/toronto/toronto3.jpg",
+          "./img/photos/toronto/toronto4.jpg",
+          "./img/photos/toronto/toronto5.jpg"
+        ]
       }
     }, 
     {
@@ -131,7 +138,10 @@
         "Day": "Sept 28", 
         "description": "Event page: https://www.facebook.com/events/273275056195710\nContact: Hong Kong Forum, Los Angeles",
         "photos": [
-          "./img/photos/losangeles/losangeles.jpg"
+          "./img/photos/losangeles/losangeles.jpg",
+          "./img/photos/losangeles/supportfromLA-1.jpg",
+          "./img/photos/losangeles/supportfromLA-2.jpg",
+          "./img/photos/losangeles/supportfromLA-3.jpg"
         ]
       }
     }, 
@@ -369,7 +379,27 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 29", 
-        "description": "Organizer: https://www.facebook.com/globalsolidarityHKinPerth\nEvent page: https://www.facebook.com/events/931363963559354/"
+        "description": "Organizer: https://www.facebook.com/globalsolidarityHKinPerth\nEvent page: https://www.facebook.com/events/931363963559354/",
+        "photos": [
+          "./img/photos/perth/Perth1.jpg",
+          "./img/photos/perth/perth2.jpg",
+          "./img/photos/perth/perth3.jpg",
+          "./img/photos/perth/perth4.jpg",
+          "./img/photos/perth/perth5.jpg",
+          "./img/photos/perth/perth6.jpg",
+          "./img/photos/perth/perth7.jpg",
+          "./img/photos/perth/perth8.jpg",
+          "./img/photos/perth/perth9.jpg",
+          "./img/photos/perth/perth10.jpg",
+          "./img/photos/perth/perth11.jpg",
+          "./img/photos/perth/perth12.jpg",
+          "./img/photos/perth/perth13.jpg",
+          "./img/photos/perth/perth14.jpg",
+          "./img/photos/perth/perth15.jpg",
+          "./img/photos/perth/perth16.jpg",
+          "./img/photos/perth/perth17.jpg",
+          "./img/photos/perth/perth18.jpg"
+        ]
       }
     }, 
     {
@@ -407,7 +437,20 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 29", 
-        "description": "Event: https://www.facebook.com/events/747944068604754/\nContact: apang.concordia@gmail.com, oclpaus@gmail.com, dpoon168@gmail.com\nwww.facebook.com/theconcordia, https://www.facebook.com/OCLPHK.Australia"
+        "description": "Event: https://www.facebook.com/events/747944068604754/\nContact: apang.concordia@gmail.com, oclpaus@gmail.com, dpoon168@gmail.com\nwww.facebook.com/theconcordia, https://www.facebook.com/OCLPHK.Australia",
+        "photos": [
+          "./img/photos/sydney/Sydney1.jpg",
+          "./img/photos/sydney/sydney2.jpg",
+          "./img/photos/sydney/sydney3.jpg",
+          "./img/photos/sydney/sydney4.jpg",
+          "./img/photos/sydney/sydney5.jpg",
+          "./img/photos/sydney/sydney6.jpg",
+          "./img/photos/sydney/sydney7.jpg",
+          "./img/photos/sydney/sydney8.jpg",
+          "./img/photos/sydney/sydney9.jpg",
+          "./img/photos/sydney/sydney10.jpg",
+          "./img/photos/sydney/sydney11.jpg"
+        ]
       }
     }, 
     {
@@ -587,7 +630,16 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 29", 
-        "description": "https://www.facebook.com/events/1570326273190574"
+        "description": "https://www.facebook.com/events/1570326273190574",
+        "photos": [
+          "./img/photos/vancouver/van1.jpg",
+          "./img/photos/vancouver/van2.jpg",
+          "./img/photos/vancouver/van3.jpg",
+          "./img/photos/vancouver/van4.jpg",
+          "./img/photos/vancouver/van5.jpg",
+          "./img/photos/vancouver/van6.jpg",
+          "./img/photos/vancouver/van7.jpg"
+        ]
       }
     }, 
     {
@@ -705,7 +757,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 30", 
-        "description": "Page: https://www.facebook.com/events/351844224983158/"
+        "description": "Page: https://www.facebook.com/events/351844224983158/",
+        "photos": [
+          "./img/photos/tokyo/tokyo1.jpg",
+          "./img/photos/tokyo/tokyo2.jpg",
+          "./img/photos/tokyo/tokyo3.jpg",
+          "./img/photos/tokyo/tokyo4.jpg",
+          "./img/photos/tokyo/tokyo5.jpg"
+        ]
       }
     }, 
     {
@@ -1151,7 +1210,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Contact: chklink@gmail.com, oclptoronto@gmail.com\nPage: https://www.facebook.com/CHKLink, https://www.facebook.com/OCLP.Toronto"
+        "description": "Contact: chklink@gmail.com, oclptoronto@gmail.com\nPage: https://www.facebook.com/CHKLink, https://www.facebook.com/OCLP.Toronto",
+        "photos": [
+          "./img/photos/toronto/toronto1.jpg",
+          "./img/photos/toronto/toronto2.jpg",
+          "./img/photos/toronto/toronto3.jpg",
+          "./img/photos/toronto/toronto4.jpg",
+          "./img/photos/toronto/toronto5.jpg"
+        ]
       }
     }, 
     {
