@@ -13,9 +13,10 @@
   "properties": [
     "Title",
     "address",
+    {"name": "event", "title": "event", "url": true},
     {"name": "Day", "title": "Day"},
-    {"name": "page", "title": "website"},
-    {"name": "contact", "title": "Contact Information" }
+    {"name": "contacts", "title": "Contact Information"},
+    {"name": "pages", "title": "Pages"}
   ],
   "search": {
     "geosearch": true,
