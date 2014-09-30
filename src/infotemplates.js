@@ -19,24 +19,28 @@ define(function(require, exports) {
                             url: value});
     },
 
-    image: function(value) {
-      return templates.image({url: value});
-    },
-
     title: function(value, property) {
-      return templates.title({title: property.title,
-                              rendered: format(value)});
+      var t = property.title;
+      property.title = null;
+      return templates.title({title: t,
+                              rendered: format(value, property)});
     },
 
     list: function(value, property) {
+      console.log("beginning of list");
+      console.log(property);
       if (value.length === 0) {
         return '';
       } else if (value.length === 1) {
-        return formatters.simple(value[0], property);
+        return format(value[0], property);
       }
       return templates.list({
-        list: _.map(value, formatters.simple)
+        list: _.map(value, function(x) {return format(x, property)} )
       });
+    },
+
+    image: function(value) {
+      return templates.image({url: value});
     },
 
     simple: function(value) {
@@ -53,21 +57,26 @@ define(function(require, exports) {
 
   function format(value, property) {
     property = property || {};
+    console.log("beginning of format");
+    console.log(value);
+    console.log(property);
     var formatter;
     if (property.url) {
       formatter = 'url';
-    } else if (property.image) {
-      formatter = 'image';
     } else if (property.directions) {
       formatter = 'directions';
     } else if (property.title) {
       formatter = 'title';
     } else if (_.isArray(value)) {
       formatter = 'list';
+    } else if (property.image) {
+      formatter = 'image';
     } else {
       formatter = 'simple';
     }
     // apply the discovered formatter to the data
+    console.log("end of format");
+    console.log(property);
     return formatters[formatter](value, property);
   }
 
@@ -84,7 +93,7 @@ define(function(require, exports) {
       }
 
       var value = feature[key];
-      if (value !== undefined && (value.length === undefined || value.length !== 0)) {
+      if (value !== undefined) {
         rendered = format(value, property);
         if (rendered) {
           popup.push({

@@ -17,7 +17,7 @@
     {"name": "Day", "title": "Day"},
     {"name": "contacts", "title": "Contact Information"},
     {"name": "pages", "title": "Pages"},
-    {"name": "photos", "image": true}
+    {"name": "photos", "image": true, "title": "Photos"}
   ],
   "search": {
     "geosearch": true,
