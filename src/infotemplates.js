@@ -5,7 +5,7 @@ define(function(require, exports) {
 
   var templates = {
     url: Handlebars.compile('<a href="{{url}}" target="_blank"><h4 id="website">{{title}}<h4></a>'),
-    image: Handlebars.compile('<img src="{{url}}"/>'),
+    image: Handlebars.compile('<img id="picture" src="{{url}}"/>'),
     title: Handlebars.compile('<div><h4>{{title}}</h4><div>{{{rendered}}}</div></div>'),
     list: Handlebars.compile('<ul> {{#list}} <li>{{{this}}}</li> {{/list}} </ul>'),
     directions: Handlebars.compile('<a href="http://maps.google.com/maps?q={{directions}}">{{title}}</a>'),
@@ -19,24 +19,26 @@ define(function(require, exports) {
                             url: value});
     },
 
-    image: function(value) {
-      return templates.image({url: value});
-    },
-
     title: function(value, property) {
-      return templates.title({title: property.title,
-                              rendered: format(value)});
+      var t = property.title + ""; //force copy by value
+      property.title = null;
+      return templates.title({title: t,
+                              rendered: format(value, property)});
     },
 
     list: function(value, property) {
       if (value.length === 0) {
         return '';
       } else if (value.length === 1) {
-        return formatters.simple(value[0], property);
+        return format(value[0], property);
       }
       return templates.list({
-        list: _.map(value, formatters.simple)
+        list: _.map(value, function(x) {return format(x, property)} )
       });
+    },
+
+    image: function(value) {
+      return templates.image({url: value});
     },
 
     simple: function(value) {
@@ -56,14 +58,14 @@ define(function(require, exports) {
     var formatter;
     if (property.url) {
       formatter = 'url';
-    } else if (property.image) {
-      formatter = 'image';
     } else if (property.directions) {
       formatter = 'directions';
     } else if (property.title) {
       formatter = 'title';
     } else if (_.isArray(value)) {
       formatter = 'list';
+    } else if (property.image) {
+      formatter = 'image';
     } else {
       formatter = 'simple';
     }
@@ -84,7 +86,7 @@ define(function(require, exports) {
       }
 
       var value = feature[key];
-      if (value !== undefined && (value.length === undefined || value.length !== 0)) {
+      if (value !== undefined) {
         rendered = format(value, property);
         if (rendered) {
           popup.push({
