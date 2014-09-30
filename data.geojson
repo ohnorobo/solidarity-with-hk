@@ -129,7 +129,10 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 28", 
-        "description": "Event page: https://www.facebook.com/events/273275056195710\nContact: Hong Kong Forum, Los Angeles"
+        "description": "Event page: https://www.facebook.com/events/273275056195710\nContact: Hong Kong Forum, Los Angeles",
+        "photos": [
+          "./img/photos/losangeles/losangeles.jpg"
+        ]
       }
     }, 
     {
@@ -299,7 +302,13 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 29", 
-        "description": "Contact: YL Leong, lly.lai@hotmail.com"
+        "description": "Contact: YL Leong, lly.lai@hotmail.com",
+        "photos": [
+          "./img/photos/cincinnati/Cincinnati1.jpg",
+          "./img/photos/cincinnati/Cincinnati2.jpg",
+          "./img/photos/cincinnati/Cincinnati3.jpg",
+          "./img/photos/cincinnati/Cincinnati4.jpg"
+        ]
       }
     }, 
     {
