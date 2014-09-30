@@ -1,58 +1,49 @@
 {
   "project": {
-    "name": "Finda",
-    "description": "<p>Finda is a generic \"find-a\" app for geographic datasets.</p>",
-    "contact": "Please send feedback, ideas, and bug reports to our <a href=\"https://github.com/codeforboston/finda/issues\" target=\"_blank\">Github</a> page."
+    "name": "Solidarity with Hong Kong",
+    "description": "<p>Locations of Solidarity Protests</p>",
+    "contact": "Code4HK"
   },
   "map": {
-    "preview_attribute": "organization_name",
-    "center":[42.3725, -71.1266],
-    "zoom":13,
-    "maxZoom":16,
+    "preview_attribute": "title",
+    "center":[22.2670, 114.1880],
+    "zoom":10,
+    "maxZoom":13,
     "maxBounds":[
-      [39.2, -78.0],
-      [44.5, -65.0]
+      [90.0, -90.0],
+      [180.0, -180.0]
     ]
   },
   "properties": [
-    "organization_name",
-    "address",
-    {"name": "address", "title": "directions", "directions": true },
-    {"name": "web_url", "title": "website", "url": true },
-    {"name": "contact_names", "title": "Contact Information" },
-    "contact_emails",
-    "phone_numbers",
-
-    {"name": "services_offered", "title": "Services" },
-    {"name": "youth_category", "title": "Type of Organization" },
-    {"name": "target_populations", "title": "Populations Served" },
-
-    {"name": "additional_notes", "title": "Information"}
+    "title",
+    {"name": "address", "title": "Address"},
+    {"name": "day", "title": "Day"},
+    {"name": "page", "title": "website", "url": true },
+    {"name": "contact", "title": "Contact Information" }
   ],
   "search": {
     "geosearch": true,
     "full_text": {
       "keys": [
+        "title",
         "address",
-        "organization_name",
-        "community",
-        "youth_category",
-        "service_class_level_2",
-        "additional_notes"]
+        "day",
+        "contact"
+      ]
     }
   },
   "facets": {
-    "target_populations": {
-      "title": "Populations Served",
-      "type": "list"
+    "day": {
+      "title": "Day",
+      "type": "single"
     },
-    "youth_category": {
-      "title": "Category",
+    "title": {
+      "title": "Location",
       "type": "single"
     }
   },
   "analytics": {
-    "enabled": true,
+    "enabled": false,
     "private": false,
     "google_tracker": null,
     "hostname": "auto",
