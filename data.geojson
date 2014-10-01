@@ -2103,6 +2103,122 @@
         "address": "Place de la Bourse", 
         "marker-size": ""
       }
+    },
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.882978, 
+          52.364242
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Number of Participants": "", 
+        "End": "10/4/2014 19:00:00", 
+        "marker-symbol": "", 
+        "Title": "Amsterdam", 
+        "address": "Leidseplein", 
+        "Start": "10/4/2014 14:00:00", 
+        "marker-color": "", 
+        "event": "https://www.facebook.com/events/1536727279895583/", 
+        "Description": "", 
+        "title": "Amsterdam", 
+        "id": "marker-i0qruu980", 
+        "Others": "", 
+        "Day": "Oct 4", 
+        "description": "", 
+        "Country": "the Netherlands", 
+        "Time": "", 
+        "marker-size": "", 
+        "Links": "", 
+        "contact": "", 
+        "Duration": "", 
+        "Reported by": "", 
+        "page": "https://www.facebook.com/events/1536727279895583/"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.4167, 
+          37.7833
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Number of Participants": "250", 
+        "End": "10/1//2014 13:40:00 PST", 
+        "marker-symbol": "", 
+        "Title": "San Francisco, CA", 
+        "address": "Portsmouth Square \u82b1\u5712\u89d2\u5ee3\u5834 & HK Trade Office (130 Montgomery)", 
+        "Start": "10/1/2014 13:00:00 PST", 
+        "marker-color": "", 
+        "id": "marker-i0qruu981", 
+        "Description": "Assemble at Portsmouth Square, SF, Walk to HK Trade Office At 130 Montgomery St, Read letter, and tape Letter to door of office", 
+        "contacts": [
+          "ncal.hkclub@gmail.com", 
+          "leonard.lau@gmail.com", 
+          "Stanley Law stanley.law.dsp@gmail.com 347-635-4266"
+        ], 
+        "Others": "", 
+        "Day": "Oct 1", 
+        "description": "Assemble at Portsmouth Square, SF, Walk to HK Trade Office At 130 Montgomery St, Read letter, and tape Letter to door of office", 
+        "Country": "USA", 
+        "Time": "10/1/2014", 
+        "pages": [
+          "www.facebook.com/ncal.hkclub", 
+          "https://www.facebook.com/OCLPUSWest"
+        ], 
+        "marker-size": "", 
+        "Links": "", 
+        "title": "San Francisco, CA", 
+        "contact": "ncal.hkclub@gmail.com, leonard.lau@gmail.com, Stanley Law stanley.law.dsp@gmail.com 347-635-4266", 
+        "Duration": "0:40:00", 
+        "Reported by": "Stanley Law", 
+        "page": "www.facebook.com/ncal.hkclub, https://www.facebook.com/OCLPUSWest"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.259511, 
+          37.870184
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Number of Participants": "250", 
+        "End": "10/1/2014 16:00:00 PST", 
+        "marker-symbol": "", 
+        "Title": "Berkeley, CA", 
+        "address": "Sather Gate, University of California Berkeley", 
+        "Start": "10/1/2014 09:00:00 PST", 
+        "marker-color": "", 
+        "event": "https://www.facebook.com/events/1560026127560375", 
+        "Description": "At Sather Gate in Berkeley, Park in residential areas and walk over.  Passing out ribbons and explaining to people about the situation in HK", 
+        "title": "Berkeley, CA", 
+        "id": "marker-i0qruu982", 
+        "Others": "", 
+        "Day": "Oct 1", 
+        "description": "At Sather Gate in Berkeley, Park in residential areas and walk over.  Passing out ribbons and explaining to people about the situation in HK", 
+        "Country": "USA", 
+        "Time": "10/1/2014", 
+        "marker-size": "", 
+        "Links": "Sign up for Volunteering here https://docs.google.com/forms/d/1x9SZhzSxdBVrm_h6BY3S7gX71CNjCKC3XXtM_8hidtk/viewform?c=0&w=1", 
+        "contacts": [
+          "Alex Chun Hei Chan alexchan@berkeley.edu", 
+          "Noble Suen noblesuen@berkeley.edu", 
+          "Zachary To tochinghei@berkeley.edu", 
+          "Stanley Law stanley.law.dsp@gmail.com 347-635-4266"
+        ], 
+        "contact": "Alex Chun Hei Chan alexchan@berkeley.edu, Noble Suen noblesuen@berkeley.edu, Zachary To tochinghei@berkeley.edu, Stanley Law stanley.law.dsp@gmail.com 347-635-4266", 
+        "Duration": "7:00:00", 
+        "Reported by": "Stanley Law", 
+        "page": "https://www.facebook.com/events/1560026127560375"
+      }
     }
   ], 
   "id": "ohnorobo.jkpagd3l"
