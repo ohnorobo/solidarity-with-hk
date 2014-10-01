@@ -150,21 +150,21 @@ body > div.container {
 }
 
 #info {
-    position: absolute;
-    border: 1px solid #AFAFAF;
-    padding: 10px 14px;
-    height: 100%;
-    width:400px;
-    top: 15px;
-    right: 15px;
-    bottom: 15px;
-    overflow-y: scroll;
-    box-shadow: 0 3px 5px rgba(0,0,0,.25);
-    border-radius: 5px;
-    margin-bottom:30px;
-    border-bottom: 30px;
+  position: absolute;
+  border: 1px solid #AFAFAF;
+  padding: 10px 14px;
+  max-height: 70%;
+  max-height: -webkit-calc(100% - 95px);
+  max-height: calc(100% - 95px);
+  width:400px;
+  top: 15px;
+  right: 15px;
+  overflow-y: scroll;
+  box-shadow: 0 3px 5px rgba(0,0,0,.25);
+  border-radius: 5px;
+  margin-bottom:30px;
+  border-bottom: 30px;
 }
-
 
 #facets {
   position: absolute;
