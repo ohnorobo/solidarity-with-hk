@@ -5,7 +5,7 @@ define(function(require, exports) {
 
   var templates = {
     url: Handlebars.compile('<a href="{{url}}" target="_blank"><h4 id="website">{{title}}<h4></a>'),
-    image: Handlebars.compile('<img id="picture" src="{{url}}"/>'),
+    image: Handlebars.compile('<img class="photo" src="{{url}}"/>'),
     title: Handlebars.compile('<div><h4>{{title}}</h4><div>{{{rendered}}}</div></div>'),
     list: Handlebars.compile('<ul> {{#list}} <li>{{{this}}}</li> {{/list}} </ul>'),
     directions: Handlebars.compile('<a href="http://maps.google.com/maps?q={{directions}}">{{title}}</a>'),

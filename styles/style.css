@@ -173,8 +173,18 @@ body > div.container {
   float: left;
 }
 
-#picture {
-  width: 300px;
+#photos ul {
+  padding: 0;
+}
+
+#photos li {
+  list-style-type: none;
+  margin-bottom: 15px;
+}
+
+.photo {
+  width: 100%;
+  height: auto;
 }
 
 .brand_image {
