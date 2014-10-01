@@ -151,6 +151,25 @@ body > div.container {
   border-bottom: 30px;
 }
 
+#explain {
+  position: absolute;
+  border: 1px solid #AFAFAF;
+  padding: 10px 14px;
+  box-shadow: 0 3px 5px rgba(0,0,0,.25);
+  border-radius: 5px;
+  margin-bottom:30px;
+  border-bottom: 30px;
+  position: absolute;
+  left: 225px;
+  bottom: 35px;
+  width: 450px;
+  display: block;
+}
+
+#explain .explanation {
+  font-size: 18px;
+}
+
 #facets {
   position: absolute;
   padding: 10px 14px;

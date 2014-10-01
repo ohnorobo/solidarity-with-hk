@@ -13,6 +13,14 @@
   </head>
 
   <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=936247986403592&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
 
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container-fluid">
@@ -55,6 +63,14 @@
       <div id="facets" class="control"></div>
       <div id="info" class="control">
         <button type="button" class="close">&times;</button>
+      </div>
+      <div id="explain" class="control">
+        <button type="button" class="close">&times;</button>
+        <p class="explanation">
+          While Hong Kongers' are fighting for democracy peacefully with their persistence and ambitious spirit, they are not alone: Check out the events happening around the world echoing this Umbrella Movement!
+        </p>
+        <p>For multilingual updates on the Umbrella Movement,<br/> follow <a href="https://www.facebook.com/HKDemoNow">HK Democracy Now</a> on Facebook:<p>
+        <div class="fb-like" data-href="https://www.facebook.com/HKDemoNow" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
       </div>
     </div>
 
