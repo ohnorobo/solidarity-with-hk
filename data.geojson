@@ -1663,7 +1663,12 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Video filming starts at 6pm.\nContact: Tina Choi  tinachoius@gmail.com\nEvent:https://www.facebook.com/events/289898761206924"
+        "description": "Video filming starts at 6pm.\nContact: Tina Choi  tinachoius@gmail.com\nEvent:https://www.facebook.com/events/289898761206924",
+        "photos": [
+          "1.jpg",
+          "2.jpg",
+          "3.jpg"
+        ]
       }
     }, 
     {
