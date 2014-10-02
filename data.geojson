@@ -27,7 +27,12 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "https://www.facebook.com/events/842775019090740/?ref=4"
+        "description": "https://www.facebook.com/events/842775019090740/?ref=4",
+        "photos": [
+          "./img/photos/halifax/1.jpg",
+          "./img/photos/halifax/2.jpg",
+          "./img/photos/halifax/3.jpg"
+        ]
       }
     }, 
     {
