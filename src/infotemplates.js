@@ -5,6 +5,7 @@ define(function(require, exports) {
 
   var templates = {
     url: Handlebars.compile('<a href="{{url}}" target="_blank"><h4 id="website">{{title}}</h4></a>'),
+    button: Handlebars.compile('<a href="{{url}}" target="_blank" class="btn btn-primary">{{title}}</a>'),
     image: Handlebars.compile('<img class="photo" src="{{url}}"/>'),
     title: Handlebars.compile('<div><h4>{{title}}</h4><div>{{{rendered}}}</div></div>'),
     list: Handlebars.compile('<ul> {{#list}} <li>{{{this}}}</li> {{/list}} </ul>'),
@@ -17,6 +18,10 @@ define(function(require, exports) {
       var title = property.title || '[link]';
       return templates.url({title: title,
                             url: value});
+    },
+
+    button: function(value, property) {
+      return templates.button({title: property.title, url: value});
     },
 
     title: function(value, property) {
@@ -58,6 +63,8 @@ define(function(require, exports) {
     var formatter;
     if (property.url) {
       formatter = 'url';
+    } else if (property.button) {
+      formatter = 'button';
     } else if (property.directions) {
       formatter = 'directions';
     } else if (property.title) {
