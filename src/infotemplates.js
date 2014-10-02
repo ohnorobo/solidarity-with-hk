@@ -4,8 +4,8 @@ define(function(require, exports) {
       _ = require('lodash');
 
   var templates = {
-    url: Handlebars.compile('<a href="{{url}}" target="_blank"><h4 id="website">{{title}}<h4></a>'),
-    image: Handlebars.compile('<img id="picture" src="{{url}}"/>'),
+    url: Handlebars.compile('<a href="{{url}}" target="_blank"><h4 id="website">{{title}}</h4></a>'),
+    image: Handlebars.compile('<img class="photo" src="{{url}}"/>'),
     title: Handlebars.compile('<div><h4>{{title}}</h4><div>{{{rendered}}}</div></div>'),
     list: Handlebars.compile('<ul> {{#list}} <li>{{{this}}}</li> {{/list}} </ul>'),
     directions: Handlebars.compile('<a href="http://maps.google.com/maps?q={{directions}}">{{title}}</a>'),
@@ -20,10 +20,10 @@ define(function(require, exports) {
     },
 
     title: function(value, property) {
-      var t = property.title + ""; //force copy by value
-      property.title = null;
-      return templates.title({title: t,
-                              rendered: format(value, property)});
+      var propertyNoTitle = _.clone(property);
+      propertyNoTitle.title = null;
+      return templates.title({title: property.title,
+                              rendered: format(value, propertyNoTitle)});
     },
 
     list: function(value, property) {

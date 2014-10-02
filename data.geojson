@@ -653,6 +653,7 @@
           "./img/photos/vancouver/van7.jpg"
         ]
       }
+<<<<<<< HEAD
     }, 
     {
       "geometry": {
@@ -687,6 +688,9 @@
         ]
       }
     }, 
+=======
+    },  
+>>>>>>> d2cb8263e26b9a7f48e29e4afc3e19d392a6f481
     {
       "geometry": {
         "type": "Point", 
@@ -1089,6 +1093,7 @@
         "Day": "Oct 1", 
         "description": "Event: https://www.facebook.com/events/309858412551984",
         "photos": [
+<<<<<<< HEAD
           "20140929_125036.jpg",
           "20140929_125715.jpg",
           "20140929_130341.jpg",
@@ -1097,6 +1102,16 @@
           "20140929_153026.jpg",
           "20140929_173326.jpg",
           "20140929_175814.jpg"
+=======
+          "./img/photos/melbourne/melbourne1.jpg",
+          "./img/photos/melbourne/melbourne2.jpg",
+          "./img/photos/melbourne/melbourne3.jpg",
+          "./img/photos/melbourne/melbourne4.jpg",
+          "./img/photos/melbourne/melbourne5.jpg",
+          "./img/photos/melbourne/melbourne6.jpg",
+          "./img/photos/melbourne/melbourne7.jpg",
+          "./img/photos/melbourne/melbourne8.jpg"
+>>>>>>> d2cb8263e26b9a7f48e29e4afc3e19d392a6f481
         ]
       }
     }, 
@@ -1560,35 +1575,13 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "https://www.facebook.com/events/1579790465582410"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -77.0367, 
-          38.8951
+        "description": "https://www.facebook.com/events/1579790465582410",
+        "photos": [
+          "./img/photos/washingtondc/dc1.jpg",
+          "./img/photos/washingtondc/dc2.jpg",
+          "./img/photos/washingtondc/dc3.jpg",
+          "./img/photos/washingtondc/dc4.jpg"
         ]
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "End": "10/1/2014 11:00:00", 
-        "Description": "", 
-        "marker-symbol": "", 
-        "Title": "Washington DC", 
-        "title": "Washington DC", 
-        "address": "HKETO, 1520 18th St NW, Washington, DC", 
-        "page": "", 
-        "id": "marker-i0ooddkz18", 
-        "Start": "10/1/2014 10:00:00", 
-        "contact": "", 
-        "Time": "", 
-        "Duration": "1:00", 
-        "marker-color": "", 
-        "marker-size": "", 
-        "Day": "Oct 1", 
-        "description": ""
       }
     }, 
     {
@@ -1620,7 +1613,12 @@
         "description": "Event page: https://www.facebook.com/events/363549887155202/",
         "photos": [
           "./img/photos/paris/paris1.jpg",
+<<<<<<< HEAD
           "./img/photos/paris/paris2.jpg"
+=======
+          "./img/photos/paris/paris2.jpg",
+          "./img/photos/paris/paris3.jpg"
+>>>>>>> d2cb8263e26b9a7f48e29e4afc3e19d392a6f481
         ]
       }
     }, 
@@ -1660,8 +1658,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -122.3331, 
-          47.6097
+          -122.30965, 
+          47.655775
         ]
       }, 
       "type": "Feature", 
@@ -2059,43 +2057,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -122.30965, 
-          47.655775
-        ]
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "Number of Participants": "", 
-        "End": "", 
-        "marker-symbol": "", 
-        "Title": "Seattle", 
-        "address": "University of Washington Red Square", 
-        "Start": "10/1/2014 19:00:00", 
-        "marker-color": "", 
-        "event": "https://www.facebook.com/events/289898761206924", 
-        "Description": "", 
-        "title": "Seattle", 
-        "id": "marker-i0q65zh65", 
-        "Others": "", 
-        "Day": "Oct 1", 
-        "description": "", 
-        "Country": "USA", 
-        "Time": "", 
-        "marker-size": "", 
-        "Links": "", 
-        "contacts": [
-          "Tina Choi tinachoius@gmail.com"
-        ], 
-        "contact": "Tina Choi tinachoius@gmail.com", 
-        "Duration": "", 
-        "Reported by": "", 
-        "page": "https://www.facebook.com/events/289898761206924"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           5.333888, 
           61.330651
         ]
@@ -2294,7 +2255,7 @@
         "Number of Participants": "250", 
         "End": "10/1//2014 13:40:00 PST", 
         "marker-symbol": "", 
-        "Title": "San Francisco, CA", 
+        "Title": "San Francisco", 
         "address": "Portsmouth Square \u82b1\u5712\u89d2\u5ee3\u5834 & HK Trade Office (130 Montgomery)", 
         "Start": "10/1/2014 13:00:00 PST", 
         "marker-color": "", 
@@ -2316,7 +2277,7 @@
         ], 
         "marker-size": "", 
         "Links": "", 
-        "title": "San Francisco, CA", 
+        "title": "San Francisco", 
         "contact": "ncal.hkclub@gmail.com, leonard.lau@gmail.com, Stanley Law stanley.law.dsp@gmail.com 347-635-4266", 
         "Duration": "0:40:00", 
         "Reported by": "Stanley Law", 
