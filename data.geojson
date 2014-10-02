@@ -960,7 +960,11 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "https://www.facebook.com/events/1535503596683235/"
+        "description": "https://www.facebook.com/events/1535503596683235/",
+        "photos": [
+          "1.jpeg"
+        ]
+
       }
     }, 
     {
