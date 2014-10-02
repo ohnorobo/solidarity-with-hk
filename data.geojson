@@ -623,7 +623,22 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 29", 
-        "description": "沿途派傳單 終點去海牙既中國領事館綁黃絲帶 Contact: Danny (0647614402) or Elise (0614906677) Page: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=regular"
+        "description": "沿途派傳單 終點去海牙既中國領事館綁黃絲帶 Contact: Danny (0647614402) or Elise (0614906677) Page: https://www.facebook.com/events/834725746567447/?ref_newsfeed_story_type=regular",
+        "photos": [
+          "./img/photos/denhaag/1.jpg",
+          "./img/photos/denhaag/2.jpg",
+          "./img/photos/denhaag/3.jpg",
+          "./img/photos/denhaag/4.jpg",
+          "./img/photos/denhaag/5.jpg",
+          "./img/photos/denhaag/6.jpg",
+          "./img/photos/denhaag/7.jpg",
+          "./img/photos/denhaag/8.jpg",
+          "./img/photos/denhaag/9.jpg",
+          "./img/photos/denhaag/10.jpg",
+          "./img/photos/denhaag/11.jpg",
+          "./img/photos/denhaag/12.jpg",
+          "./img/photos/denhaag/13.jpg"
+        ]
       }
     }, 
     {
@@ -2243,7 +2258,14 @@
         "Reported by": "", 
         "Day": "Oct 1", 
         "address": "Place de la Bourse", 
-        "marker-size": ""
+        "marker-size": "",
+        "photos": [
+          "./img/photos/brussels/1.jpg",
+          "./img/photos/brussels/2.jpg",
+          "./img/photos/brussels/3.jpg",
+          "./img/photos/brussels/4.jpg",
+          "./img/photos/brussels/5.jpg"
+        ]
       }
     },
     {
