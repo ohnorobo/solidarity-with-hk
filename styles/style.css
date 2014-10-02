@@ -43,7 +43,7 @@ body > div.container {
   color: #69579c;
 }
 
-.navbar-form .btn {
+.btn {
   border:none;
   outline:none;
   background-color: #69579c; /*This should be the brand accent color*/
@@ -51,13 +51,13 @@ body > div.container {
   font-weight: 400;
   vertical-align: middle;
 }
-.navbar-form .btn:hover{
+.btn:hover{
   box-shadow: none;
   outline:none;
   border:none;
   background-color: #4F4175; /*This should be a 25% darken of the brand accent color*/
 }
-.navbar-form .btn:active{
+.btn:active{
   box-shadow: none;
   outline:none;
   border:none;
@@ -185,6 +185,10 @@ body > div.container {
 #about .modal-footer img {
   height: 2.5em;
   float: left;
+}
+
+#event {
+  margin: 7px 0;
 }
 
 #photos ul {
