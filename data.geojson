@@ -1133,7 +1133,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Contact: Michael Law hong.law@mail.mcgill.ca\nhttps://www.facebook.com/events/385942264896916/?ref=4"
+        "description": "Contact: Michael Law hong.law@mail.mcgill.ca\nhttps://www.facebook.com/events/385942264896916/?ref=4",
+        "photos": [
+          "1.jpg",
+          "2.jpg",
+          "3.jpg",
+          "4.jpg"
+        ]
+
       }
     }, 
     {
