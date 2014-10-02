@@ -1793,7 +1793,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 2", 
-        "description": "Page: https://www.facebook.com/events/544139535730004/"
+        "description": "Page: https://www.facebook.com/events/544139535730004/",
+        "photos": [
+          "./img/photos/dublin/1.jpg",
+          "./img/photos/dublin/2.jpg",
+          "./img/photos/dublin/3.jpg",
+          "./img/photos/dublin/4.jpg",
+          "./img/photos/dublin/5.jpg"
+        ]
       }
     }, 
     {
