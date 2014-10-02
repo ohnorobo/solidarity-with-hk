@@ -1504,7 +1504,12 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "https://www.facebook.com/events/905896499422564/"
+        "description": "https://www.facebook.com/events/905896499422564/",
+        "photos": [
+          "./img/photos/manchester/1.jpg",
+          "./img/photos/manchester/2.jpg",
+          "./img/photos/manchester/3.jpg"
+        ]
       }
     }, 
     {
