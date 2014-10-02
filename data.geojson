@@ -636,8 +636,8 @@
           "./img/photos/denhaag/9.jpg",
           "./img/photos/denhaag/10.jpg",
           "./img/photos/denhaag/11.jpg",
-          "./img/photos/denhaag/12.jpg",
-          "./img/photos/denhaag/13.jpg"
+          "./img/photos/denhaag/11.jpg",
+          "./img/photos/denhaag/12.jpg"
         ]
       }
     }, 
@@ -1300,7 +1300,12 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Dress code: Black. \nBring umbrellas, face masks and goggles if you have some!\nPage: https://www.facebook.com/events/730140170391527/"
+        "description": "Dress code: Black. \nBring umbrellas, face masks and goggles if you have some!\nPage: https://www.facebook.com/events/730140170391527/",
+        "photos": [
+          "./img/photos/stockholm/1.jpg",
+          "./img/photos/stockholm/2.jpg",
+          "./img/photos/stockholm/3.jpg"
+        ]
       }
     }, 
     {
