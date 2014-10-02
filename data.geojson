@@ -591,7 +591,12 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Sept 29", 
-        "description": "Event: https://www.facebook.com/events/272416779636080\nContact: Hong Kong People in Berlin, sintung@yahoo.com"
+        "description": "Event: https://www.facebook.com/events/272416779636080\nContact: Hong Kong People in Berlin, sintung@yahoo.com",
+        "photos": [
+          "./img/photos/berlin/1.jpg",
+          "./img/photos/berlin/2.jpg"
+        ]
+
       }
     }, 
     {
@@ -1380,7 +1385,16 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Contact: Terry Chan schterrycy@gmail.com\nEvent: https://www.facebook.com/events/558544454245889"
+        "description": "Contact: Terry Chan schterrycy@gmail.com\nEvent: https://www.facebook.com/events/558544454245889",
+        "photos": [
+          "./img/photos/copenhagen/1.jpg",
+          "./img/photos/copenhagen/2.jpg",
+          "./img/photos/copenhagen/3.jpg",
+          "./img/photos/copenhagen/4.jpg",
+          "./img/photos/copenhagen/5.jpg",
+          "./img/photos/copenhagen/6.jpg"
+        ]
+
       }
     }, 
     {
@@ -1409,7 +1423,13 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "https://www.facebook.com/events/826339524085440/"
+        "description": "https://www.facebook.com/events/826339524085440/",
+        "photos": [
+          "./img/photos/hamburg/1.jpg",
+          "./img/photos/hamburg/2.jpg",
+          "./img/photos/hamburg/3.jpg"
+        ]
+
       }
     }, 
     {
