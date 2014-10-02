@@ -989,7 +989,17 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Event: https://www.facebook.com/events/309858412551984"
+        "description": "Event: https://www.facebook.com/events/309858412551984",
+        "photos": [
+          "./img/photos/melbourne/melbourne1.jpg",
+          "./img/photos/melbourne/melbourne2.jpg",
+          "./img/photos/melbourne/melbourne3.jpg",
+          "./img/photos/melbourne/melbourne4.jpg",
+          "./img/photos/melbourne/melbourne5.jpg",
+          "./img/photos/melbourne/melbourne6.jpg",
+          "./img/photos/melbourne/melbourne7.jpg",
+          "./img/photos/melbourne/melbourne8.jpg"
+        ]
       }
     }, 
     {
@@ -1423,7 +1433,13 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "https://www.facebook.com/events/1579790465582410"
+        "description": "https://www.facebook.com/events/1579790465582410",
+        "photos": [
+          "./img/photos/washingtondc/dc1.jpg",
+          "./img/photos/washingtondc/dc2.jpg",
+          "./img/photos/washingtondc/dc3.jpg",
+          "./img/photos/washingtondc/dc4.jpg"
+        ]
       }
     }, 
     {
