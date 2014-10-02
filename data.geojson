@@ -181,7 +181,9 @@
         "Day": "Sept 28", 
         "description": "(唐人街孔子大廈對開廣場 33 Bowery, New York, NY 10002)Please wear black. Contact: anna_k_cheung@yahoo.com, 516-7083985 (Anna Cheung)",
         "photos": [
-          "./img/photos/newyork/1.jpg"
+          "./img/photos/newyork/1.jpg",
+          "./img/photos/newyork/2.jpg",
+          "./img/photos/newyork/3.jpg"
         ]
       }
     }, 
@@ -1655,7 +1657,14 @@
         "marker-color": "", 
         "marker-size": "", 
         "Day": "Oct 1", 
-        "description": "Event page: https://www.facebook.com/events/1542707772626971\nContact: Hong Kong Overseas Alliance HKOA.official@gmail.com"
+        "description": "Event page: https://www.facebook.com/events/1542707772626971\nContact: Hong Kong Overseas Alliance HKOA.official@gmail.com",
+        "photos": [
+          "./img/photos/london/1.jpg",
+          "./img/photos/london/2.jpg",
+          "./img/photos/london/3.jpg",
+          "./img/photos/london/4.jpg"
+        ]
+
       }
     }, 
     {
