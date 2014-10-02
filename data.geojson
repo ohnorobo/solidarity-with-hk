@@ -653,7 +653,6 @@
           "./img/photos/vancouver/van7.jpg"
         ]
       }
-<<<<<<< HEAD
     }, 
     {
       "geometry": {
@@ -688,9 +687,6 @@
         ]
       }
     }, 
-=======
-    },  
->>>>>>> d2cb8263e26b9a7f48e29e4afc3e19d392a6f481
     {
       "geometry": {
         "type": "Point", 
@@ -1093,16 +1089,6 @@
         "Day": "Oct 1", 
         "description": "Event: https://www.facebook.com/events/309858412551984",
         "photos": [
-<<<<<<< HEAD
-          "20140929_125036.jpg",
-          "20140929_125715.jpg",
-          "20140929_130341.jpg",
-          "20140929_141541.jpg",
-          "20140929_150153.jpg",
-          "20140929_153026.jpg",
-          "20140929_173326.jpg",
-          "20140929_175814.jpg"
-=======
           "./img/photos/melbourne/melbourne1.jpg",
           "./img/photos/melbourne/melbourne2.jpg",
           "./img/photos/melbourne/melbourne3.jpg",
@@ -1111,7 +1097,6 @@
           "./img/photos/melbourne/melbourne6.jpg",
           "./img/photos/melbourne/melbourne7.jpg",
           "./img/photos/melbourne/melbourne8.jpg"
->>>>>>> d2cb8263e26b9a7f48e29e4afc3e19d392a6f481
         ]
       }
     }, 
@@ -1613,12 +1598,7 @@
         "description": "Event page: https://www.facebook.com/events/363549887155202/",
         "photos": [
           "./img/photos/paris/paris1.jpg",
-<<<<<<< HEAD
           "./img/photos/paris/paris2.jpg"
-=======
-          "./img/photos/paris/paris2.jpg",
-          "./img/photos/paris/paris3.jpg"
->>>>>>> d2cb8263e26b9a7f48e29e4afc3e19d392a6f481
         ]
       }
     }, 
